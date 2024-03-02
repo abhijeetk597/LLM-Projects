@@ -9,4 +9,5 @@ app_file: app.py
 pinned: false
 ---
 ![app](app.png)
-[video link]()
+
+[video link](https://www.linkedin.com/posts/abhijeetk597_openai-conversationalai-ai-activity-7169771749339869185-VFg-?utm_source=share&utm_medium=member_desktop)
