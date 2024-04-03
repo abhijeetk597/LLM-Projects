@@ -2,7 +2,7 @@
 
 |Sr No.| Project Title | Tools / Models |
 |------|---------------|------------|
-|01|-------------------------------|--|
+|01|[Smart Resume ATS using LLM](https://github.com/abhijeetk597/smart-resume-tracking-using-google-gemini-pro)|Google Gemini Pro, PyPDF|
 
 ### Mini Projects
 
