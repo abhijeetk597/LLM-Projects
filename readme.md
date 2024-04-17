@@ -4,6 +4,7 @@
 |------|---------------|------------|
 |01|[Smart Resume ATS using LLM](https://github.com/abhijeetk597/smart-resume-tracking-using-google-gemini-pro)|Google Gemini Pro, PyPDF|
 |02|[Rag Application](https://github.com/abhijeetk597/rag-application-llama2-llamaindex-huggingface)|Llama2, LlamaIndex, HuggingFace|
+|03|[Personal AI Assistant: My Alexa]()|SpeechRecognition, pyttsx3, PyAudio, pywhatkit, LangChain, GPT|
 
 ### Mini Projects
 

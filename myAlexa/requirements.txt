@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+PyAudio
+pywhatkit
+wikipedia
+python-dotenv
+langchain-openai
+openai
+pandas
+PyQt5
